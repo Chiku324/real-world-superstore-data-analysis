@@ -1,0 +1,11 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2016-152156,11/8/2016,11/11/2016,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,South,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,261.96,2,0.0,41.9136
+CA-2016-152156,11/8/2016,11/11/2016,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,South,FUR-CH-10000454,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,731.94,3,0.0,219.582
+CA-2016-138688,6/12/2016,6/16/2016,Second Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,West,OFF-LA-10000240,Office Supplies,Labels,Self-Adhesive Address Labels,14.62,2,0.0,6.8714
+US-2015-108966,10/11/2015,10/18/2015,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,South,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,957.5775,5,0.45,-383.031
+CA-2014-115812,6/9/2014,6/14/2014,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,FUR-FU-10001487,Furniture,Furnishings,Eldon Expressions Wood and Plastic,48.86,7,0.0,14.1694
+CA-2017-114412,4/15/2017,4/20/2017,Standard Class,AA-10480,Andrew Allen,Consumer,United States,Concord,North Carolina,South,OFF-PA-10002365,Office Supplies,Paper,Xerox 1967,15.552,3,0.2,5.4432
+CA-2016-161389,12/5/2016,12/10/2016,Standard Class,RA-19885,Rick Hansen,Consumer,United States,Seattle,Washington,West,TEC-PH-10003988,Technology,Phones,Plantronics 8140,911.424,4,0.2,68.3568
+CA-2017-106389,5/12/2017,5/18/2017,Standard Class,KD-16345,Katherine Dykstra,Consumer,United States,Nashville,Tennessee,South,OFF-ST-10002365,Office Supplies,Storage,Fellowes Bankers Box,18.528,3,0.2,1.1592
+CA-2015-149731,9/4/2015,9/8/2015,Standard Class,EB-13870,Emily Burns,Corporate,United States,Fresno,California,West,FUR-FU-10000193,Furniture,Furnishings,Tenex Chairmats,51.264,3,0.2,5.1264
+CA-2014-115812,6/9/2014,6/14/2014,Standard Class,BH-11710,Brosina Hoffman,Consumer,United States,Los Angeles,California,West,OFF-AR-10002833,Office Supplies,Art,Newell 322,7.28,4,0.0,1.9656
